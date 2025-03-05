@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @hasanjabir123
-- 👀 I’m interested in cybersecurity.
-- 🌱 I’m currently learning php, network security and penetration testing.
+- 👀 I’m cybersecurity enthusiast.
+- 🌱 I’m currently learning python, network security and penetration testing.
 - 💞️ I’m looking to collaborate on cyberWorld.
+- 💞️ Let's secure the web together!✨.
 - 📫 To reach me text on hasanjabir@gmail.com.
 - 😄 Pronouns: Hasan
 - ⚡ Fun fact: ...
